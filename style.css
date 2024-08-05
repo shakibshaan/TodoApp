@@ -17,7 +17,7 @@
     width: 100%;
     max-width: 540px;
     background: #fff;
-    margin: 100px auto 20px ;
+    margin: 99px auto 20px ;
     padding: 40px 30px 70px ;
     border-radius: 10px;
         /* makes the border rounder */
@@ -41,10 +41,10 @@
 .row{
     display: flex;
     align-items: center;
-    justify-content: space-between;   /* evenly distributer in the whole line */
-    background: #edeef0;
+    justify-content: space-evenly;   /* evenly distributer in the whole line */
+    background: pink;
     border-radius: 30px;
-    padding-left: 10px;
+    padding-left: 9px;
     margin-bottom: 25px; /* bottom diye ektu jaga take ektu boro korse */
 }
 
